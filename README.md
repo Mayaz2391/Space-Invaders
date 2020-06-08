@@ -1,5 +1,5 @@
 # Space-Invaders
-A user friendly game for inspired by legendary space impact arcade game.
+A user friendly game inspired by legendary space impact arcade game.
 Download the exe file and follow the Instruction to play this friendly game.
 
 Tech Used:
